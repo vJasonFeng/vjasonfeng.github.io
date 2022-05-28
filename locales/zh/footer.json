@@ -1,0 +1,21 @@
+{
+    "contact_info": {
+        "title": {
+            "text1": "联系信息 —",
+            "text2": ""
+        },
+        "message": "请随时与我联系。我喜欢通过电子邮件交谈，尤其是因为我们可能有不同的时区。",
+        "phone": "手机号码: +86 188 - 2308 7116",
+        "email": "电子邮件: "
+    },
+    "latest_web_prj": {
+        "text1": "最新的网站开发项目 —",
+        "text2": ""
+    },
+    "latest_game_prj": {
+        "text1": "最新的游戏开发项目 —",
+        "text2": ""
+    },
+    "follow": "关注我:",
+    "copyright": "© 2022 由 Jason Feng 设计。保留所有权利。"
+}

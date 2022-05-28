@@ -1,0 +1,21 @@
+{
+    "contact_info": {
+        "title": {
+            "text1": "Información",
+            "text2": "de Contacto —"
+        },
+        "message": "No dude en ponerse en contacto conmigo en cualquier momento. Prefiero hablar por correo electrónico, especialmente porque podemos estar en distintas zonas horarias.",
+        "phone": "Teléfono: +86 188 - 2308 7116",
+        "email": "E-Mail: "
+    },
+    "latest_web_prj": {
+        "text1": "Proy. Des. Web",
+        "text2": "Más Reciente —"
+    },
+    "latest_game_prj": {
+        "text1": "Proy. Des. Videojuegos",
+        "text2": "Más Reciente —"
+    },
+    "follow": "Sígueme en:",
+    "copyright": "© 2022 Diseñado por Jason Feng. Reservados todos los derechos."
+}

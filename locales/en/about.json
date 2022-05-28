@@ -1,0 +1,48 @@
+{
+    "biography": {
+        "biography_specialization": "UX & UI Designer / Front-End Web Developer / Game Developer",
+        "text1": "Hello! I'm a self-taught front-end web developer based in Venezuela. I enjoy designing and building things with the computer such as Web Technologies and Games.",
+        "text2": "I started working as a freelancer several months ago, helping people from all over the world to create their website with React.js technology.",
+        "text3": "In my spare time I like to learn new things that can help me become a better programmer or dedicate myself to working on my personal projects.",
+        "text4": "I have many hobbies like playing videogames, chess, speedcubing and aeromodelling design."
+    },
+    "skills_and_tech": {
+        "sub_title": "MAIN SKILLS",
+        "main_title": "Tools & Techs"
+    },
+    "education": {
+        "sub_title": "ACADEMIC",
+        "main_title": "Educational Background",
+        "academic_degree1": "Bachelor of Science",
+        "academic_career1": "Aeronautical Engineering",
+        "academic_alma-mater1": "National Experimental University of the Armed Forces",
+        "academic_year-attended1": "2015 ~ 2018",
+        "academic_degree2": "Bachelor of Science",
+        "academic_career2": "Software Engineering",
+        "academic_alma-mater2": "South China University of Technology（华南理工大学）",
+        "academic_year-attended2": "2019 ~ 2021"
+    },
+    "job_experience": {
+        "sub_title": "EXPERIENCE",
+        "main_title": "LESS THAN 6 MONTHS",
+        "job_position1": "Freelancer",
+        "job_company1": "@Web Development",
+        "job_year-worked1": "2021 - now"
+    },
+    "language_proficiency": {
+        "sub_title": "LANGUAGE",
+        "main_title": "Language Proficiency",
+        "language1": "SPANISH",
+        "language1_level": "@Mother Language",
+        "language2": "ENGLISH",
+        "language2_level": "@IELTS BAND 6.0",
+        "language3": "CANTONESE CHINESE",
+        "language3_level": "@Mother Language",
+        "language4": "MANDARIN CHINESE",
+        "language4_level": "@HSK Level 4"
+    },
+    "contact_me": {
+        "text1": "NEED A DEVELOPER?",
+        "text2": "— Let’s work together"
+    }
+}

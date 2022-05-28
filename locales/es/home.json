@@ -1,0 +1,34 @@
+{
+    "hero": {
+        "text_greeting": "— Hola,",
+        "text_name": "Soy Jason Feng.",
+        "text_paragraph_part1": "Soy un desarrollador web front-end auto-didacta,",
+        "text_paragraph_part2": "actualmente trabajando como freelancer y",
+        "text_paragraph_part3": "en algunos proyectos personales."
+    },
+    "cases_studies": {
+        "title": {
+            "sub_title": "ÚLTIMOS PROYECTOS",
+            "main_title": "Estudios de Casos"
+        },
+        "cases_studies_item1": {
+            "project_type": "Desarrollo de Videojuegos",
+            "project_description": "Un juego indie FPS multijugador y multiplataforma desarrollado por dos personas, usando solo C++ y Unreal Engine 5 como motor de juego junto con blender para modelado 3D.",
+            "image_project_description": "Un juego FPS en línea creado por dos personas con Unreal Engine 5."
+        },
+        "cases_studies_item2": {
+            "project_type": "Desarrollo Web",
+            "project_description": "Un sitio web de comercio electrónico creado con el Stack MERN cuyas letras representan MongoDB, Express.js, React y Node.",
+            "image_project_description": "Un sitio web de comercio electrónico creado con MERN Stack."
+        },
+        "cases_studies_item3": {
+            "project_type": "Desarrollo Web",
+            "project_description": "Es un proyecto personal de un currículum vitae digital de una sola página con diseño receptivo. Construido con la biblioteca React.js y con React Router para simular una aplicación de varias páginas en una aplicación de una sola página.",
+            "image_project_description": "Un sitio web personal de un currículum vitae digital con diseño receptivo."
+        }
+    },
+    "more": {
+        "text": "MÁS PROYECTOS",
+        "text_link": "— Ver Más"
+    }
+}

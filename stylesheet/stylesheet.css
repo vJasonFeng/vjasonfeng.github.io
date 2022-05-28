@@ -1,0 +1,982 @@
+/* Tablet Screen Size Media Queries */
+
+@media screen and (max-width: 1280px) {
+    footer#footer {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    div.header-wrapper {
+        width: 100%;
+    }
+
+    main#main {
+        width: auto;
+        padding: 0 15px;
+    }
+
+    li.cases-studies__list-item {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    /* HOME PAGE */
+    /* HOME PAGE - Hero Section */
+    p.hero-content__text-greeting {
+        font-size: 1.875rem;
+    }
+
+    h1.hero-content__text-name {
+        font-size: 4rem;
+    }
+
+    div.hero-content__text-specialization {
+        font-size: 4rem;
+    }
+
+    p.hero-content__text-paragraph {
+        font-size: 1.375rem;
+    }
+
+    /* HOME PAGE - Title Block */
+    p.title-container__sub-title {
+        font-size: 1.375rem;
+    }
+
+    h1.title-container__main-title {
+        font-size: 3.25rem;
+    }
+
+    /* HOME PAGE - List Item Odd */
+    li.cases-studies__list-item:nth-child(odd) p.cases-studies__project-type {
+        font-size: 1rem;
+    }
+
+    li.cases-studies__list-item:nth-child(odd) h1.cases-studies__project-title {
+        font-size: 1.625rem;
+    }
+
+    li.cases-studies__list-item:nth-child(odd) p.cases-studies__project-description-content {
+        font-size: 1.063rem;
+    }
+
+    li.cases-studies__list-item:nth-child(odd) li.cases-studies__project-tools-list-item {
+        font-size: 1.063rem;
+    }
+
+    /* HOME PAGE - List Item Even */
+    li.cases-studies__list-item:nth-child(even) p.cases-studies__project-type {
+        font-size: 1rem;
+    }
+
+    li.cases-studies__list-item:nth-child(even) h1.cases-studies__project-title {
+        font-size: 1.625rem;
+    }
+
+    li.cases-studies__list-item:nth-child(even) p.cases-studies__project-description-content {
+        font-size: 1.063rem;
+    }
+
+    li.cases-studies__list-item:nth-child(even) li.cases-studies__project-tools-list-item {
+        font-size: 1.063rem;
+    }
+
+    /* HOME PAGE - More Project Block */
+    p.more-project-container__text {
+        font-size: 1.25rem;
+    }
+
+    a.more-project-container__link {
+        font-size: 2.25Crem;
+    }
+
+    /* ABOUT PAGE */
+    /* BIOGRAPHY SECTION */
+    h1.biography__header-name {
+        font-size: 4rem;
+    }
+
+    p.biography__specialization {
+        font-size: 1.125rem;
+    }
+
+    p.biography-content__text {
+        font-size: 1.5rem;
+    }
+
+    img.biography-content__image {
+        padding: 30px 2.930vw 0 6.348vw;
+    }
+
+    div.biography-content__text-wrapper {
+        padding: 60px 6.348vw 0 0;
+    }
+
+    /* SKILLS AND TECH SECTION */
+    li.skills-and-tech__list-item {
+        font-size: 1.375rem;
+    }
+
+    /* EDUCATION SECTION */
+    h1.education-background__academic-degree {
+        font-size: 1.375rem;
+    }
+
+    p.education-background__career {
+        font-size: 1rem;
+    }
+
+    p.education-background__alma-mater {
+        font-size: 1rem;
+    }
+
+    p.education-background__year-attended {
+        font-size: 1rem;
+    }
+    
+    /* JOB EXPERIENCE SECTION */
+    h1.job-experience__position {
+        font-size: 1.375rem;
+    }
+
+    p.job-experience__company-name {
+        font-size: 1.375rem;
+    }
+
+    p.job-experience__years-worked {
+        font-size: 1.375rem;
+    }
+
+    /* LANGUAGE PROFICIENCY SECTION */
+    h1.language-proficiency__language {
+        font-size: 1.375rem;
+    }
+
+    p.language-proficiency__language-level {
+        font-size: 1.375rem;
+    }
+
+    /* CONTACT ME SECTION */
+    p.contact-me__text {
+        font-size: 1.375rem;
+    }
+
+    a.contact-me__link {
+        font-size: 3.25rem;
+    }
+
+    /* PROJECT PAGE */
+    h1.error-warning__message-title {
+        font-size: 3.875rem;
+    }
+
+    p.error-warning__message {
+        font-size: 1.375rem;
+    }
+
+    /* HEADER COMPONENT */
+    /* HEADER COMPONENT - Logo block*/
+    a.logo__link {
+        font-size: 1.25rem;
+    }
+
+    /* HEADER COMPONENT - List Item Block */
+    a.nav__list-item-link {
+        font-size: 1rem;
+    }
+
+    /* HEADER COMPONENT - Select Block */
+    select.right-container__select {
+        font-size: 1rem;
+    }
+
+    /* FOOTER COMPONENT */
+    h2.footer-column__title {
+        font-size: 1.063rem;
+    }
+
+    p.footer-column__message {
+        font-size: 1rem;
+    }
+
+    span.footer-copyright-container__text {
+        font-size: 0.875rem;
+    }
+}
+
+@media screen and (max-width: 962px) {
+
+    /* ABOUT PAGE */
+    /* BIOGRAPHY SECTION */
+    p.biography-content__text {
+        font-size: 22px;
+    }
+
+    img.biography-content__image {
+        padding: 30px 3.119vw 0 4.678vw;
+    }
+
+    div.biography-content__text-wrapper {
+        padding: 60px 4.678vw 0 0;
+    }
+
+    /* SKILLS AND TECH SECTION */
+    li.skills-and-tech__list-item {
+        font-size: 20px;
+    }
+
+    /* EDUCATION SECTION */
+    h1.education-background__academic-degree {
+        font-size: 20px;
+    }
+
+    /* JOB EXPERIENCE */
+    h1.job-experience__position {
+        font-size: 20px;
+    }
+
+    p.job-experience__company-name {
+        font-size: 20px;
+    }
+
+    p.job-experience__years-worked {
+        font-size: 20px;
+    }
+
+    /* LANGUAGE PROFICIENCY */
+    h1.language-proficiency__language {
+        font-size: 20px;
+    }
+
+    p.language-proficiency__language-level {
+        font-size: 20px;
+    }
+
+    /* ERROR PAGE */
+    div.error-warning {
+        position: absolute;
+        width: 800px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    /* HOME PAGE */
+    /* HOME PAGE - Hero Section*/
+    p.hero-content__text-greeting {
+        font-size: 26px;
+    }
+
+    h1.hero-content__text-name {
+        font-size: 56px;
+    }
+
+    div.hero-content__text-specialization {
+        font-size: 56px;
+    }
+
+    p.hero-content__text-paragraph {
+        font-size: 20px;
+    }
+
+    /* HOME PAGE - Cases Studies Section*/
+    div.cases-studies__image-background {
+        background: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    li.cases-studies__list-item:nth-child(odd) .cases-studies__image-background-content {
+        position: absolute;
+        text-align: right;
+        right: 55px;
+        bottom: 38px;
+    }
+
+    li.cases-studies__list-item:nth-child(even) .cases-studies__image-background-content {
+        position: absolute;
+        text-align: left;
+        left: 55px;
+        bottom: 38px;
+    }
+
+    p.cases-studies__image-project-type {
+        color: #EBEEEA;
+        margin: 0px;
+    }
+
+    h1.cases-studies__image-project-title {
+        color: #EBEEEA;
+        margin: 0 0 6px 0;
+    }
+
+    p.cases-studies__image-project-description {
+        color: #EBEEEA;
+        margin: 0px;
+        font-style: italic;
+    }
+
+    /* ABOUT PAGE */
+    img.biography-content__image {
+        padding: 30px 3.333vw 0 1.667vw;
+    }
+
+    div.biography-content__text-wrapper {
+        padding: 60px 1.667vw 0 0;
+    }
+
+    /* ERROR PAGE */
+    h1.error-warning__message-title {
+        font-size: 32px;
+    }
+
+    img.error-warning__image {
+        width: 300px;
+    }
+
+    p.error-warning__message {
+        font-size: 16px;
+    }
+
+    /* FOOTER COMPONENT */
+    div.footer-row:nth-child(2) {
+        margin: 30px 0 0 0;
+    }
+
+    div.footer-column:nth-child(1) {
+        text-align: left;
+    }
+
+    div.footer-column:nth-child(2) {
+        text-align: center;
+    }
+
+    div.footer-column:nth-child(3) {
+        text-align: right;
+    }
+
+    div.footer-column__wrapper {
+        display: inline-block;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 812px) {
+
+    /* HOME PAGE */
+    div.hero-content {
+        left: 5%;
+    }
+
+    p.title-container__sub-title {
+        font-size: 20px;
+    }
+
+    h1.title-container__main-title {
+        font-size: 46px;
+    }
+
+    /* ABOUT PAGE */
+    /* ABOUT PAGE - Biography Section */
+    div.biography-content {
+        display: block;
+    }
+
+    img.biography-content__image {
+        display: block;
+        width: 460px;
+        margin: 50px auto;
+        padding: 0;
+
+    }
+
+    div.biography-content__text-wrapper {
+        display: block;
+        width: 600px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    p.biography-content__text {
+        font-size: 20px;
+    }
+
+    /* ABOUT PAGE - Skills and Tech Section */
+    li.skills-and-tech__list-item {
+        font-size: 18px;
+    }  
+
+    /* ABOUT PAGE - Education Section */
+    h1.education-background__academic-degree {
+        font-size: 18px;
+    }
+
+    p.education-background__career {
+        font-size: 14px;
+    }
+
+    p.education-background__alma-mater {
+        font-size: 14px;
+    }
+
+    p.education-background__year-attended {
+        font-size: 14px;
+    }
+
+    /* ABOUT PAGE - Job Experience Section */
+    h1.job-experience__position {
+        font-size: 18px;
+    }
+
+    p.job-experience__company-name {
+        font-size: 18px;
+    }
+
+    p.job-experience__years-worked {
+        font-size: 18px;
+    }
+
+    /* ABOUT PAGE - Language Proficiency Section */
+    h1.language-proficiency__language {
+        font-size: 18px;
+    }
+
+    p.language-proficiency__language-level {
+        font-size: 18px;
+    }
+
+    /* ABOUT PAGE - Contact Me Section */
+    p.contact-me__text {
+        font-size: 20px;
+    }
+
+    a.contact-me__link {
+        font-size: 46px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+
+    /* HOME PAGE */
+    li.cases-studies__list-item {
+        width: 600px;
+        margin: 0 auto 50px auto !important;
+    }
+
+    /* ABOUT PAGE */
+    p.hero-content__text-greeting {
+        font-size: 24px;
+    }
+
+    h1.hero-content__text-name {
+        font-size: 48px;
+    }
+
+    div.hero-content__text-specialization {
+        font-size: 48px;
+    }
+
+    p.hero-content__text-paragraph {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+
+    /* HOME PAGE */
+    /* HOME PAGE - Hero Section */
+    p.hero-content__text-greeting {
+        font-size: 22px;
+    }
+
+    h1.hero-content__text-name {
+        font-size: 42px;
+    }
+
+    div.hero-content__text-specialization {
+        font-size: 42px;
+    }
+
+    p.hero-content__text-paragraph {
+        font-size: 16px;
+    }
+
+    /* HOME PAGE - Cases Studies Section */
+    li.cases-studies__list-item {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    li.cases-studies__list-item img.cases-studies__image {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    li.cases-studies__list-item:nth-child(odd) div.cases-studies__list-item-image-container {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    li.cases-studies__list-item:nth-child(even) div.cases-studies__list-item-image-container {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    /* ABOUT PAGE */
+    h1.language-proficiency__language {
+        font-size: 16px;
+    }
+
+    p.language-proficiency__language-level {
+        font-size: 14px;
+    }
+
+    /* HEADER COMPONENT */
+    /* HEADER COMPONENT - Right Container Block */
+
+    a.logo__link {
+        font-size: 18px;
+    }
+    
+    select.right-container__select {
+        font-size: 14px;
+    }
+
+    div.right-container {
+        flex: 1;
+        justify-content: right;
+    }
+
+    /* HEADER COMPONENT - Right Container Button Element */
+    button.right-container__nav-button {
+        background-color: #D8D9DC;
+        width: 38px;
+        height: 38px;
+        margin-left: 10px;
+        padding: 0px;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+        z-index: 9999;
+        transition: 0.3s;
+    }
+
+    button.right-container__nav-button--dark_theme {
+        background-color: #2f3031;
+    }
+
+    img.right-container__nav-button-icon--dark_theme {
+        vertical-align: middle;
+        filter: invert(100%);
+    }
+
+    button.right-container__nav-button:active {
+        transform: matrix(0.8, 0, 0, 0.8, 0, 0);
+    }
+
+    img.right-container__nav-button-icon {
+        vertical-align: middle;
+        width: 22px;
+    }
+
+    /* HEADER COMPONENT - Right Container Menu Element */
+    div.menu__nav-container {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    div.menu__nav-container--active {
+        visibility: visible;
+    }
+
+    div.menu__nav-container--idle {
+        visibility: hidden;
+    }
+
+    div.menu__nav-overlay {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, .8);
+        transition: 0.3s;
+    }
+
+    div.menu__nav-overlay--active {
+        opacity: 1;
+    }
+
+    div.menu__nav-overlay--idle {
+        opacity: 0;
+    }
+
+    div.menu__nav-canvas {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        width: min(75vw, 300px);
+        height: 100%;
+        background-color: #F0F2F5;
+        transition: 0.3s;
+    }
+
+    div.menu__nav-canvas--dark_theme {
+        background-color: #191A1B;
+    }
+
+    div.menu__nav-canvas--active {
+        transform: translateX(0);
+    }
+
+    div.menu__nav-canvas--idle {
+        transform: translateX(100%);
+    }
+
+    nav.menu__nav {
+        position: relative;
+        text-align: center;
+        height: 100vh;
+        padding: 0 30px;
+    }
+
+    div.menu__nav-wrapper {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 210px;
+        transform: translate(-50%, -50%);
+    }
+
+    h1.menu__nav-title {
+        margin: 0 0 3vh 0;
+        font-size: 14px;
+        font-weight: normal;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+
+    h1.menu__nav-title--dark_theme {
+        color: #878A8F;
+    }
+
+    ul.menu__nav-list {
+        margin: 0px;
+        padding: 0px;
+        list-style-type: none;
+    }
+
+    li.menu__nav-list-item {
+        margin: 1.50vh 0;
+    }
+
+    a.menu__list-item-link {
+        color: #65676B;
+        font-size: 22px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        text-decoration: none;
+    }
+
+    a.menu__list-item-link--dark_theme {
+        color: #EBEEEA;
+    }
+
+    li.menu__nav-list-item:last-child {
+        margin: 10.50vh 0 3vh 0;
+    }
+
+    li.menu__nav-list-item:last-child a.menu__list-item-link {
+        display: inline-block;
+        padding: 8px 50px;
+        border: 1px solid #95A891;
+        border-radius: 5px;
+        color: #95A891;
+        font-size: 18px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-decoration: none;
+    }
+
+    .active {
+        font-weight: bold;
+    }
+
+    span.menu__copyright {
+        color: #878A8F;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
+@media screen and (max-height: 395px) {
+    /* ABOUT PAGE */
+    /* ABOUT PAGE - Right Container Menu Element */
+    h1.menu__nav-title {
+        margin: 0 0 2.5vh 0;
+    }
+
+    li.menu__nav-list-item {
+        margin: 1vh 0;
+    }
+
+    li.menu__nav-list-item:last-child {
+        margin: 5vh 0 2.5vh 0;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    /* HOME PAGE */
+    /* HOME PAGE - Hero Section */
+    div.hero-content {
+        left: 0;
+    }
+
+    p.hero-content__text-greeting {
+        font-size: 22px;
+    }
+
+    h1.hero-content__text-name {
+        font-size: 32px;
+    }
+
+    div.hero-content__text-specialization {
+        font-size: 32px;
+    }
+
+    p.hero-content__text-paragraph {
+        font-size: 12px;
+    }
+
+    /* HOME PAGE - Title Container Block */
+    p.title-container__sub-title {
+        font-size: 16px;
+    }
+
+    h1.title-container__main-title {
+        font-size: 34px;
+    }
+
+    /* HOME PAGE - List Item Section */
+    li.cases-studies__list-item:nth-child(odd) .cases-studies__image-background-content {
+        position: absolute;
+        text-align: right;
+        right: 5%;
+        bottom: 5%;
+    }
+
+    li.cases-studies__list-item:nth-child(even) .cases-studies__image-background-content {
+        position: absolute;
+        text-align: left;
+        left: 5%;
+        bottom: 5%;
+    }
+
+    /* HOME PAGE - More Project Section */
+    p.more-project-container__text {
+        font-size: 18px;
+    }
+
+    a.more-project-container__link {
+        font-size: 34px;
+    }
+
+    /* ABOUT PAGE */
+    /* ABOUT PAGE - Biography Section */
+    section.biography {
+        padding: 100px 0 30px 0;
+    }
+
+    h1.biography__header-name {
+        font-size: 46px;
+    }
+
+    p.biography__specialization {
+        font-size: 16px;
+    }
+
+    p.biography-content__text {
+        font-size: 18px;
+    }
+
+    img.biography-content__image {
+        width: 100%;
+    }
+
+    div.biography-content__text-wrapper {
+        width: 100%;
+    }
+
+    /* ABOUT PAGE - Skills And Tech Section */
+    section.skills-and-tech {
+        margin: 0 0 50px 0;
+    }
+
+    section.skills-and-tech div.title-container {
+        margin: 0 0 30px 0;
+    }
+
+    div.skills-and-tech__row {
+        display: block;
+    }
+
+    div.skills-and-tech__column {
+        margin: 0 0 20px 0;
+    }
+
+    li.skills-and-tech__list-item {
+        font-size: 16px;
+    }
+
+    div.skills-and-tech__column:nth-child(2) {
+        text-align: left;
+    }
+
+    div.skills-and-tech__column:nth-child(3) {
+        text-align: left;
+    }
+
+    /* ABOUT PAGE - Education Section */
+    section.education-background {
+        margin: 0 0 50px 0;
+    }
+
+    section.education-background div.title-container {
+        margin: 0 0 30px 0;
+    }
+    div.education-background__row {
+        display: block;
+    }
+
+    div.education-background__column {
+        margin: 0 0 20px 0;
+    }
+
+    div.education-background__column {
+        text-align: left;
+    }
+
+    h1.education-background__academic-degree {
+        font-size: 16px;
+    }
+
+    p.education-background__career {
+        font-size: 14px;
+    }
+
+    p.education-background__alma-mater {
+        font-size: 14px;
+    }
+
+    p.education-background__year-attended {
+        font-size: 14px;
+    }
+
+    /* ABOUT PAGE - Job Experience Section */
+    section.job-experience {
+        margin: 0 0 50px 0;
+    }
+
+    section.job-experience div.title-container {
+        margin: 0 0 30px 0;
+    }
+
+    p.job-experience__company-name {
+        font-size: 16px;
+    }
+
+    p.job-experience__years-worked {
+        font-size: 16px;
+    }
+
+    /* ABOUT PAGE - Language Proficiency Section */
+    section.language-proficiency {
+        margin: 0 0 100px 0;
+    }
+
+    section.language-proficiency div.title-container {
+        margin: 0 0 30px 0;
+    }
+
+    div.language-proficiency__row {
+        display: block;
+    }
+
+    div.language-proficiency__column {
+        margin: 0 0 20px 0;
+    }
+
+    div.language-proficiency__column:nth-child(1) {
+        text-align: left;
+    }
+
+    div.language-proficiency__column:nth-child(2) {
+        text-align: left;
+    }
+
+    div.language-proficiency__column:nth-child(3) {
+        text-align: left;
+    }
+
+    div.language-proficiency__column:nth-child(4) {
+        text-align: left;
+    }
+
+    p.language-proficiency__language-level {
+        font-size: 16px;
+    }
+
+    /* ABOUT PAGE - Contact Me Section */
+    p.contact-me__text {
+        font-size: 16px;
+    }
+
+    a.contact-me__link {
+        font-size: 26px;
+        margin: 0 0 0 15%;
+    }
+
+    /* ERROR PAGE */
+    div.error-warning {
+        padding: 45% 0 0 0;
+    }
+
+    h1.error-warning__message-title {
+        font-size: 22px;
+    }
+
+    img.error-warning__image {
+        width: 200px;
+    }
+
+    p.error-warning__message {
+        font-size: 16px;
+    }
+
+    /* FOOTER COMPONENT */
+    p.footer-column__message {
+        width: auto;
+        text-align: justify;
+    }
+
+    div.footer-row:nth-child(2) {
+        margin: 30px 0 0 0;
+    }
+
+    div.footer-row:nth-child(3) {
+        margin: 30px 0 0 0;
+    }
+
+    div.footer-column:nth-child(2) {
+        text-align: left;
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "biography": {
+        "biography_specialization": "Diseñador UX & UI / Desarrollador Web Front-End / Desarrollador de Videojuegos",
+        "text1": "Hola! soy un desarrollador web front-end autodidacta localizado en Venezuela. Disfruto diseñando y creando cosas con la computadora tales como tecnología web y videojuegos.",
+        "text2": "Comencé a trabajar como Freelancer hace varios meses, ayudando a personas de todo el mundo a crear su sitio web con la tecnología React.js.",
+        "text3": "En mi tiempo libre me gusta aprender cosas nuevas que me pueden ayudar a ser un mejor programador o me dedico a trabajar en mis proyectos personales.",
+        "text4": "Tengo muchos hobbies como jugar videojuegos, ajedrez, speedcubing y diseño de aeronaves de aeromodelismo."
+    },
+    "skills_and_tech": {
+        "sub_title": "HABILIDADES PRINCIPALES",
+        "main_title": "Herramientas & Tecnología"
+    },
+    "education": {
+        "sub_title": "ACADÉMICO",
+        "main_title": "Antecedentes Educativos",
+        "academic_degree1": "Licenciatura en Ciencias",
+        "academic_career1": "Ingeniería Aeronáutica",
+        "academic_alma-mater1": "UNEFA",
+        "academic_year-attended1": "2015 ~ 2018",
+        "academic_degree2": "Licenciatura en Ciencias",
+        "academic_career2": "Ingeniería de Software",
+        "academic_alma-mater2": "South China University of Technology（华南理工大学）",
+        "academic_year-attended2": "2019 ~ 2021"
+    },
+    "job_experience": {
+        "sub_title": "EXPERIENCIA",
+        "main_title": "MENOS DE 6 MESES",
+        "job_position1": "Freelancer",
+        "job_company1": "@Desarrollo Web",
+        "job_year-worked1": "2021 - ahora"
+    },
+    "language_proficiency": {
+        "sub_title": "IDIOMA",
+        "main_title": "Dominio del Idioma",
+        "language1": "ESPAÑOL",
+        "language1_level": "@Lengua Materna",
+        "language2": "INGLES",
+        "language2_level": "@IELTS BANDA 6.0",
+        "language3": "CHINO CANTONÉS",
+        "language3_level": "@Lengua Materna",
+        "language4": "CHINO MANDARÍN",
+        "language4_level": "@HSK Nivel 4"
+    },
+    "contact_me": {
+        "text1": "NECESITAS UN DESARROLLADOR?",
+        "text2": "— Trabajemos juntos"
+    }
+}

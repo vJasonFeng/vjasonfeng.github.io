@@ -1,0 +1,34 @@
+{
+    "hero": {
+        "text_greeting": "— Hello,",
+        "text_name": "I'm Jason Feng.",
+        "text_paragraph_part1": "I'm a self-taught front-end web developer,",
+        "text_paragraph_part2": "currently working as a freelancer and",
+        "text_paragraph_part3": "on some personal projects."
+    },
+    "cases_studies": {
+        "title": {
+            "sub_title": "LATEST PROJECTS",
+            "main_title": "Cases Studies"
+        },
+        "cases_studies_item1": {
+            "project_type": "Game Development",
+            "project_description": "A indie FPS multiplayer and multi-platform game developed by two person, using only C++ and Unreal Engine 5 as the game engine along with blender for 3D modeling.",
+            "image_project_description": "An online FPS game made by two persons with Unreal Engine 5."
+        },
+        "cases_studies_item2": {
+            "project_type": "Web Development",
+            "project_description": "An e-commerce website built with MERN Stack which letter stand for MongoDB, Express.js, React, and Node.",
+            "image_project_description": "An e-commerce website built with MERN Stack."
+        },
+        "cases_studies_item3": {
+            "project_type": "Web Development",
+            "project_description": "It is a personal project of a single page portfolio website with responsive design. Built with React.js library and with React Router to simulate a multi page app in a single page app.",
+            "image_project_description": "A personal single page portfolio website with responsive design."
+        }
+    },
+    "more": {
+        "text": "MORE PROJECTS",
+        "text_link": "— See More"
+    }
+}

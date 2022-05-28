@@ -1,0 +1,48 @@
+{
+    "biography": {
+        "biography_specialization": "用户体验和用户界面设计师 / 前端网页开发程序员 / 游戏开发程序员",
+        "text1": "您好！我是一名自学成才的前端网页开发程序员来自委内瑞拉。 我喜欢用计算机设计和构建软件，比如网络技术和游戏。",
+        "text2": "几个月前，我开始以自由职业者工作，帮助来自世界各地的人们使用 React.js 技术创建网站。",
+        "text3": "在业余时间，我喜欢学习可以帮助我成为更好的程序员或致力于我的个人软件开发项目。",
+        "text4": "我有很多爱好，比如玩电子游戏，国际象棋，速解魔方和设计遥控航空模型。"
+    },
+    "skills_and_tech": {
+        "sub_title": "主要技能",
+        "main_title": "工具与技术"
+    },
+    "education": {
+        "sub_title": "学历",
+        "main_title": "教育背景",
+        "academic_degree1": "理学学士",
+        "academic_career1": "航空工程",
+        "academic_alma-mater1": "National Experimental University of the Armed Forces",
+        "academic_year-attended1": "2015 ~ 2018",
+        "academic_degree2": "理学学士",
+        "academic_career2": "软件工程",
+        "academic_alma-mater2": "华南理工大学（985工程大学）",
+        "academic_year-attended2": "2019 ~ 2021"
+    },
+    "job_experience": {
+        "sub_title": "工作经验",
+        "main_title": "不到 6 个月",
+        "job_position1": "自由职业者",
+        "job_company1": "@网页开发",
+        "job_year-worked1": "2021 - 现在"
+    },
+    "language_proficiency": {
+        "sub_title": "语言",
+        "main_title": "语言水平",
+        "language1": "西班牙语",
+        "language1_level": "@母语",
+        "language2": "英语",
+        "language2_level": "@雅思考试6.0级",
+        "language3": "粤语",
+        "language3_level": "@母语",
+        "language4": "普通话",
+        "language4_level": "@汉语水平考试4级"
+    },
+    "contact_me": {
+        "text1": "需要程序员?",
+        "text2": "— 我们一起工作吧"
+    }
+}

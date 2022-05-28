@@ -1,0 +1,34 @@
+{
+    "hero": {
+        "text_greeting": "— 您好,",
+        "text_name": "我是 Jason Feng.",
+        "text_paragraph_part1": "我是一名自学成才的前端网页开发程序员,",
+        "text_paragraph_part2": "目前作为自由职业者和在做一些个人软件开发项目。",
+        "text_paragraph_part3": ""
+    },
+    "cases_studies": {
+        "title": {
+            "sub_title": "最新项目",
+            "main_title": "案例研究"
+        },
+        "cases_studies_item1": {
+            "project_type": "游戏开发",
+            "project_description": "这是一款两人开发的独立跨平台和网络第一人称射击游戏（FPS），使用C++和Unreal Engine 5作为游戏引擎，配合Blender进行3D建模。",
+            "image_project_description": "两人开发的第一人称射击游戏（FPS），使用Unreal Engine 5制作。"
+        },
+        "cases_studies_item2": {
+            "project_type": "网页开发",
+            "project_description": "是一个网页开发项目使用MERN堆栈构建的电子商务网站，其中英文字母代表MongoDB，Express.js，React 和 Node。",
+            "image_project_description": "是一个网页开发项目使用MERN堆栈构建的电子商务网站。"
+        },
+        "cases_studies_item3": {
+            "project_type": "网页开发",
+            "project_description": "是一个个人的单页简历网站开发项目使用响应式网页设计。和使用React.js 库和 React Router 构建，以在单页应用程序中模拟多页应用程序。",
+            "image_project_description": "个人单页简历网站开发项目使用响应式网页设计。"
+        }
+    },
+    "more": {
+        "text": "更多项目",
+        "text_link": "— 看更多"
+    }
+}
